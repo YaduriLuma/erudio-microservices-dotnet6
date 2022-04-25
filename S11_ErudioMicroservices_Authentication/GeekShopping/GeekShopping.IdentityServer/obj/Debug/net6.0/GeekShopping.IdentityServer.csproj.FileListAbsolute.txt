@@ -50,5 +50,4 @@ C:\Yago\Micro\erudio-microservices-dotnet6\S11_ErudioMicroservices_Authenticatio
 C:\Yago\Micro\erudio-microservices-dotnet6\S11_ErudioMicroservices_Authentication\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\Yago\Micro\erudio-microservices-dotnet6\S11_ErudioMicroservices_Authentication\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\Yago\Micro\erudio-microservices-dotnet6\S11_ErudioMicroservices_Authentication\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
-C:\Yago\Micro\erudio-microservices-dotnet6\S11_ErudioMicroservices_Authentication\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Humanizer.dll
-C:\Yago\Micro\erudio-microservices-dotnet6\S11_ErudioMicroservices_Authentication\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Yago\Micro\erudio-microservices-dotnet6\S11_ErudioMicroservices_Authentication\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-48D2311D0E9BECF06C81CFB4F108CA8A.json
